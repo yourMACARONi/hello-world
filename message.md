@@ -8,3 +8,4 @@ This tutorial focuses mainly on git and using github as its remote
 This is html-skeleton branch
 
 added line
+added line 2
